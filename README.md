@@ -17,24 +17,24 @@ _______________________________________________________________
 * Quantity sold grew at the same rate, indicating stable unit pricing.
 
  # Location Revenue Distribution
-*3 store locations contributed nearly equally to total revenue
+* 3 store locations contributed nearly equally to total revenue
 
 # 🕒 Time-of-Day Sales Pattern
-Sales volume by time of day (highest to lowest):
-Morning
-Afternoon
-Evening
-Night
+* Sales volume by time of day (highest to lowest):
+* Morning
+* Afternoon
+* Evening
+* Night
 
 # ☕ Product Contribution
 * Coffee & Tea products account for 67% of total revenue.
 * Other items (e.g., pastries, snacks) make up the remaining 33%.
 
 # 📈 Recommendations to Boost Sales
-Maximize Morning Traffic
-Improve Off-Peak Performance
-Increase Average Transaction Value (ATV)
-Optimize Per Location
-Strengthen Loyalty & Digital Engagement
-Elevate Coffee & Tea Strategy
+* Maximize Morning Traffic
+* Improve Off-Peak Performance
+* Increase Average Transaction Value (ATV)
+* Optimize Per Location
+* Strengthen Loyalty & Digital Engagement
+* Elevate Coffee & Tea Strategy
 
