@@ -3,9 +3,10 @@ This repository contains a detailed analysis for a coffe shop chain with 3 locat
 _______________________________________________________________
 # Case study on coffee shop that has been dropping in sales 
 
-📊 # Summary of Findings
+# 📊 Summary of Findings
 _______________________________________________________________
-🗓️ # Monthly Revenue Growth
+# 🗓️ Monthly Revenue Growth
+
 Revenue steadily increased from January to June.
 Monthly contribution to total revenue:
 Jan: 12%
